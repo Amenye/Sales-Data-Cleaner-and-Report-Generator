@@ -43,6 +43,7 @@ Validation: PASSED (Total == Price * Qty)
 ===========================================
 Files saved: 'retail_sales_clean.csv', 'retail_report.txt'
 ```
+<img width="1000" height="600" alt="sales_chart" src="https://github.com/user-attachments/assets/5fc33293-0001-4440-9838-d65db0cd1d4a" />
 
 ## ⚙️ How to Run
 
