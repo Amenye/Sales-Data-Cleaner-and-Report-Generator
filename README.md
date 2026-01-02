@@ -50,7 +50,7 @@ Files saved: 'retail_sales_clean.csv', 'retail_report.txt'
 ### 1. Clone the Repository
 Open your terminal or command prompt and run:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Sales-Data-Cleaner-and-Report-Generator.git](https://github.com/YOUR_USERNAME/Sales-Data-Cleaner-and-Report-Generator.git)
+git clone [https://github.com/Amenye/Sales-Data-Cleaner-and-Report-Generator.git](https://github.com/YOUR_USERNAME/Sales-Data-Cleaner-and-Report-Generator.git)
 cd Sales-Data-Cleaner-and-Report-Generator
 ```
 ### 2. Install Dependencies
